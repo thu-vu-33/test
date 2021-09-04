@@ -3,11 +3,13 @@ Kind: captions
 Language: en
 
 00:00:05.080 --> 00:00:10.200
-- When I first received this Nobel Prize for Literature, I got to wondering exactly how
-- When I first received this Nobel Prize for Literature, I got to wondering exactly how
+<p>When I first received this Nobel Prize for Literature, I got to wondering exactly how</p>
+
+00:00:05.080 --> 00:00:10.200
+<p>Khi lần đầu tiên nhận giải Nodel Văn Học, tôi tự hỏi chính xác làm sao</p>
+
 00:00:10.200 --> 00:00:14.030
-- my songs related to literature.
-- my songs related to literature.
+my songs related to literature.
 
 00:00:14.030 --> 00:00:17.340
 - I wanted to reflect on it and see where the connection was.
