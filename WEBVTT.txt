@@ -9,7 +9,10 @@ Language: en
 <p style="color:blue;">Khi lần đầu tiên nhận giải Nodel Văn Học, tôi tự hỏi chính xác làm sao</p>
 
 00:00:10.200 --> 00:00:14.030
-my songs related to literature.
+<div class="xx1">my songs related to literature. </dev>
+
+00:00:10.200 --> 00:00:14.030
+<div class="xx2">những bài hát liên quan tới Văn học </dev>
 
 00:00:14.030 --> 00:00:17.340
 - I wanted to reflect on it and see where the connection was.
