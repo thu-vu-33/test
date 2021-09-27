@@ -2,24 +2,26 @@ WEBVTT
 Kind: captions
 Language: en
 
-00:00:05.080 --> 00:00:10.200
-[VI]<p style="color:red;margin-block: unset;">When I first received this Nobel Prize for Literature, I got to wondering exactly how</p>
-
-00:00:05.080 --> 00:00:10.200
-<p style="color:blue;margin-block: 0em 1em;">Khi lần đầu tiên nhận giải Nodel Văn Học, tôi tự hỏi chính xác làm sao</p>
-
-00:00:10.200 --> 00:00:14.030
-[VI]<div class="xx1">my songs related to literature. </dev>
+00:00:05.080 --> 00:00:10.200 position:45%,line-right align:center size:35%
+When I first received this Nobel Prize for
+Literature, I got to wondering exactly how
+|
+Khi lần đầu tiên nhận giải thưởng giải Nobel cho Văn Học, Tôi tự hỏi chính xác là như thế nào.
+Khi lần đầu tiên nhận giải thưởng giải Nobel cho Văn Học, Tôi tự hỏi chính xác là như thế nào
 
 00:00:10.200 --> 00:00:14.030
-<div class="xx2">những bài hát liên quan tới Văn học </dev>
+my songs related to literature.
+|
+bài hát của tối liên quan tới Văn Học.
 
 00:00:14.030 --> 00:00:17.340
-[VI]- I wanted to reflect on it and see where the connection was.
-- I wanted to reflect on it and see where the connection was.
+I wanted to reflect on it and see where the
+connection was.|
+Toi muon the hien tren no va xem dau la moi lien he.
 
 00:00:17.340 --> 00:00:20.519
-I'm going to try to articulate that to you.
+I'm going to try to articulate that to you.|
+Toi dang muon noi ro dieu do den ban.
 
 00:00:20.519 --> 00:00:26.380
 [VI]And most likely it will go in a roundabout
@@ -29,7 +31,7 @@ way, but I hope what I say will be worthwhile
 and purposeful.
 
 00:00:27.380 --> 00:00:35.489
-[VI]If I was to go back to the dawning of it all,
+If I was to go back to the dawning of it all,
 I guess I'd have to start with Buddy Holly.
 
 00:00:35.489 --> 00:00:40.050
@@ -37,7 +39,7 @@ Buddy died when I was about eighteen and he
 was twenty-two.
 
 00:00:40.050 --> 00:00:43.250
-[VI]From the moment I first heard him, I felt
+From the moment I first heard him, I felt
 akin.
 
 00:00:43.250 --> 00:00:46.550
@@ -47,7 +49,7 @@ I felt related, like he was an older brother.
 I even thought I resembled him.
 
 00:00:49.649 --> 00:00:55.610
-[VI]Buddy played the music that I loved - the
+Buddy played the music that I loved - the
 music I grew up on: country western, rock
 
 00:00:55.610 --> 00:00:58.450
@@ -1506,3 +1508,4 @@ people are listening to songs these days.
 00:26:19.950 --> 00:26:26.650
 I return once again to Homer, who says, "Sing
 in me, oh Muse, and through me tell the story."
+
